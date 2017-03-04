@@ -1,0 +1,18 @@
+Package: condlSample
+Type: Package
+Title: Generate random samples from the assumed error distribution of a 
+    regression model, conditional on predictor variable values.
+Version: 0.0.0.9001
+Date: 2017-03-04
+Authors@R: person("Mark", "Hagemann", email = "mark.hagemann@gmail.com", role = c("aut", "cre"))
+Maintainer: Mark Hagemann <mark.hagemann@gmail.com>
+Description: Contains functions for generating samples from linear models and rating-curve 
+    models specified in the rcmodel package (which shares a common origin with these functions)
+License: GPL-3
+LazyData: TRUE
+Suggests:
+    testthat,
+    rcmodel
+Imports:
+    markstats
+RoxygenNote: 5.0.1

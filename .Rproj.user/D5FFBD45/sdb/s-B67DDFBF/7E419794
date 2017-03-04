@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "# main.r\n\nlibrary(roxygen2)\nlibrary(devtools)\n\n# to make my code look pretty\ninstall.packages(\"formatR\")\nformatR::tidy_dir(\"R\")\n\n\n# To make Roxygen documentation:\ndevtools::document()\n\nuse_testthat()\n\nuse_package(\"markstats\")\nuse_package(\"rcmodel\", type = \"suggests\")\n",
+    "created" : 1488657110816.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1224149939",
+    "id" : "7E419794",
+    "lastKnownWriteTime" : 1488658216,
+    "last_content_update" : 1488658216469,
+    "path" : "~/GoogleDrive/R/condSample/main.R",
+    "project_path" : "main.R",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

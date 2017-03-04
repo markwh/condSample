@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: condlSample\nType: Package\nTitle: Generate random samples from the assumed error distribution of a \n    regression model, conditional on predictor variable values.\nVersion: 0.0.0.9001\nDate: 2017-03-04\nAuthors@R: person(\"Mark\", \"Hagemann\", email = \"mark.hagemann@gmail.com\", role = c(\"aut\", \"cre\"))\nMaintainer: Mark Hagemann <mark.hagemann@gmail.com>\nDescription: Contains functions for generating samples from linear models and rating-curve \n    models specified in the rcmodel package (which shares a common origin with these functions)\nLicense: GPL-3\nLazyData: TRUE\nSuggests:\n    testthat,\n    rcmodel\nImports:\n    markstats\nRoxygenNote: 5.0.1\n",
+    "created" : 1488657914157.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2049114406",
+    "id" : "70B65759",
+    "lastKnownWriteTime" : 1488658212,
+    "last_content_update" : 1488658212,
+    "path" : "~/GoogleDrive/R/condSample/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}
